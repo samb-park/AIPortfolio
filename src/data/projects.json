@@ -1,6 +1,27 @@
 {
     "projects": [
       {
+        "date": "2025",
+        "name": "AI Portfolio",
+        "organization": "Personal",
+        "url": "https://ai.sangbong.dev/projects",
+        "gitUrl": "https://github.com/samb-park/AIPortfolio",
+        "description": [
+          "Developed a portfolio website using React, Tailwind CSS, and TypeScript.",
+          "Implemented a chat interface with Llama 3.",
+          "Styled a clean, responsive interface with Tailwind CSS."
+        ],
+        "skills": [
+          "ReactJS",
+          "NextJS",
+          "Vercel",
+          "Tailwind CSS",
+          "TypeScript",
+          "Llama 3",
+          "Web Development"
+        ]
+      },
+      {
         "date": "2024",
         "name": "Simple Todo App",
         "organization": "Personal",

@@ -1,0 +1,173 @@
+{
+    "projects": [
+      {
+        "date": "2024",
+        "name": "Simple Todo App",
+        "organization": "Personal",
+        "url": "https://todo-sandy-sigma.vercel.app/",
+        "gitUrl": "https://github.com/samb-park/todo",
+        "description": [
+          "Developed a simple to-do application using React, Recoil, and Axios to manage tasks.",
+          "Implemented full CRUD operations against a mock API.",
+          "Styled a clean, responsive interface with Tailwind CSS."
+        ],
+        "skills": [
+          "ReactJS",
+          "Recoil",
+          "Axios",
+          "JavaScript",
+          "Tailwind CSS",
+          "MockAPI",
+          "CRUD",
+          "Web Development"
+        ]
+      },
+      {
+        "date": "2024",
+        "name": "Portfolio Website",
+        "organization": "Personal",
+        "url": "https://sangbong.dev",
+        "gitUrl": "https://github.com/samb-park/blog",
+        "description": [
+          "Built a personal website with React and JavaScript, emphasizing interactive UI and frontend functionality.",
+          "Deployed to GitHub Pages with a custom domain—configured DNS and enabled HTTPS.",
+          "Used JSON for client-side data management, simulating database interactions."
+        ],
+        "skills": [
+          "JavaScript",
+          "ReactJS",
+          "Custom Domain",
+          "GitHub Pages",
+          "JSON",
+          "REST API",
+          "Bootstrap",
+          "HTML",
+          "CSS",
+          "MongoDB",
+          "Web Development",
+          "Recoil"
+        ]
+      },
+      {
+        "date": "2024",
+        "name": "Initiate News",
+        "organization": "College Capstone Project",
+        "gitUrl": "https://github.com/Gemnnn/initiate-rest-api",
+        "description": [
+          "Built a server using ASP.NET Core Web API and SQL Server, with unit tests written in NUnit.",
+          "Applied dependency injection to integrate ChatGPT and NewsAPI services.",
+          "Leveraged Entity Framework to expose a RESTful JSON API for data access."
+        ],
+        "skills": [
+          "C#",
+          "ASP.NET",
+          "REST API",
+          "NewsAPI",
+          "ChatGPT",
+          "MS SQL",
+          "Entity Framework",
+          "NUnit",
+          "Web Development"
+        ]
+      },
+      {
+        "date": "2023",
+        "name": "Game Sales",
+        "organization": "College Team Project",
+        "gitUrl": "https://github.com/junseo-yang/virtual-game-store",
+        "description": [
+          "Implemented an online game store using ASP.NET Core MVC for a robust, user-friendly platform.",
+          "Led architecture and model design to ensure scalability and maintainability.",
+          "Authored and executed end-to-end tests with Selenium, enhancing reliability."
+        ],
+        "skills": [
+          "ASP.NET",
+          "C#",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "Entity Framework",
+          "MS SQL",
+          "Selenium",
+          "Web Development",
+          "MVC"
+        ]
+      },
+      {
+        "date": "2022",
+        "name": "Lot Tracking System",
+        "organization": "Peer Group",
+        "gitUrl": "",
+        "url": "",
+        "description": [
+          "Designed a client-server architecture with C# and SQL Server.",
+          "Developed a WPF UI using MVVM and connected it to the server via a REST API.",
+          "Built an ASP.NET Web API backend integrated with SQL Server through Entity Framework."
+        ],
+        "skills": [
+          "C#",
+          "MS SQL",
+          "WPF",
+          "MVVM",
+          "REST API",
+          "ASP.NET",
+          "Entity Framework",
+          "Web Development"
+        ]
+      },
+      {
+        "date": "2021",
+        "name": "Personal Website",
+        "organization": "Personal",
+        "url": "https://admiring-sammet-3a7ca8.netlify.app",
+        "gitUrl": "https://github.com/samb-park/Portfolio.V4_Server",
+        "description": [
+          "Created a personal website using Blazor and ASP.NET Core.",
+          "Deployed the site and integrated database connectivity through RESTful APIs."
+        ],
+        "skills": [
+          "Blazor",
+          "ASP.NET",
+          "REST API",
+          "MS SQL",
+          "C#",
+          "CSS",
+          "HTML",
+          "Tailwind CSS",
+          "Web Development"
+        ]
+      },
+      {
+        "date": "2019",
+        "name": "Patent Application (No.10893478)",
+        "organization": "Samsung Electronics",
+        "url": "https://patents.justia.com/patent/10893478",
+        "gitUrl": "",
+        "description": [
+          "Authored Patent Application No. 10893478: Scheduling algorithm for base-station search in multi-SIM devices."
+        ],
+        "skills": [
+          "Patent Drafting"
+        ]
+      },
+      {
+        "date": "2012 - 2019",
+        "name": "Galaxy S, Note and Watch",
+        "organization": "Samsung Electronics",
+        "url": "",
+        "gitUrl": "",
+        "description": [
+          "Contributed to the Galaxy S, Note, and Watch series at Samsung Electronics, focusing on dual-SIM standby architecture and power optimization in idle mode."
+        ],
+        "skills": [
+          "Embedded Systems",
+          "Power Optimization",
+          "Dual SIM Technology",
+          "C",
+          "3GPP",
+          "Protocol",
+          "RTOS"
+        ]
+      }
+    ]
+  }

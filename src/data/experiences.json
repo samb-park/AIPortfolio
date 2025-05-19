@@ -1,0 +1,78 @@
+{
+    "experiences": [
+      {
+        "date": "NOV 2024 - PRESENT",
+        "name": "BNX Shipping",
+        "location": "Mississauga, ON, CA",
+        "title": "Software Developer - full-time",  
+        "description": [
+          "Implemented ERP system based on NEXT.JS and Typescript according to requirement",
+          "Developed and executed CRUD operations tailored to meet specific employees requirements."
+        ],
+        "skills": [
+          "Typescript",
+          "NextJs",
+          "My Sql",
+          "TailwindCss",
+          "Planet Scale",
+          "Vercel"
+        ]
+      },
+      {
+        "date": "AUG 2023 - APR 2024",
+        "name": "Peer Group",
+        "location": "Kitchener, ON, CA",
+        "title": "Junior Software Developer - Part-time",
+        "description": [
+          "Implemented recipe handling based on the SEMI Standard, ensuring compliance with industry protocols and efficiency.",
+          "Developed and executed CRUD operations between HOST and Tool, tailored to meet specific customer requirements."
+        ],
+        "skills": [
+          "C#",
+          ".NET",
+          "WPF",
+          "Blazor",
+          "gRPC",
+          "WCF",
+          "PL/SQL",
+          "MS SQL",
+          "SEMI Standards"
+        ]
+      },
+      {
+        "date": "MAY 2022 - AUG 2023",
+        "name": "Peer Group",
+        "location": "Kitchener, ON, CA",
+        "title": "Software Developer - Co-op",
+        "description": [
+          "Implemented equipment automation software using C# and unit test.",
+          "Developed UIs using WPF, Blazor, and MVVM architecture.",
+          "Created interfaces using GRPC and WCF for server-UI connections.",
+          "Customer support trip to get software running on site."
+        ],
+        "skills": [
+          "C#",
+          ".NET",
+          "WPF",
+          "Blazor",
+          "gRPC",
+          "WCF",
+          "PL/SQL",
+          "MS SQL"
+        ]
+      },
+      {
+        "date": "JAN 2012 - JAN 2019",
+        "name": "Samsung Electronics",
+        "location": "South Korea",
+        "title": "Staff Engineer - Full-time",
+        "description": [
+          "Developed protocol software for communication processors in layer 1.",
+          "Implemented sleep operations, power-saving, and dual sim features using C/C++.",
+          "Analyzed and debugged KPI and field-testing issues.",
+          "Documented software designs, source codes, and user guides for clients."
+        ],
+        "skills": ["C", "C++", "3GPP", "Protocol", "Embedded"]
+      }
+    ]
+  }

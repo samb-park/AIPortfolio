@@ -1,0 +1,150 @@
+/* ProjectCard.module.css */
+
+.card {
+    
+  border-width: 2px;
+  border-color: #4B5563; /* gray-600 */
+  border-radius: 0.5rem; /* rounded-lg */
+  padding: 1rem;
+  background: transparent;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.organization {
+  margin-left: 0.5rem;
+  background: #374151; /* gray-700 */
+  color: #D1D5DB; /* gray-300 */
+  padding: 0.25rem 0.5rem;/* ProjectCard.module.css */
+
+.card {
+  border-width: 2px;
+  border-color: #4B5563; /* gray-600 */
+  border-radius: 0.5rem; /* rounded-lg */
+  padding: 1rem;
+  background: transparent;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.organization {
+  margin-left: 0.5rem;
+  background: #374151; /* gray-700 */
+  color: #D1D5DB; /* gray-300 */
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+}
+
+.date {
+  color: #9CA3AF; /* gray-400 */
+  margin-bottom: 0.5rem;
+}
+
+.descList {
+  color: #D1D5DB; /* gray-300 */
+  margin-bottom: 0.5rem;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.linkContainer {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.linkSite {
+  color: #34D399; /* green-400 */
+  text-decoration: underline;
+  font-size: 0.875rem;
+}
+
+.linkCode {
+  color: #60A5FA; /* blue-400 */
+  text-decoration: underline;
+  font-size: 0.875rem;
+}
+
+.skills {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.skill {
+  background: #374151; /* gray-700 */
+  color: #E5E7EB; /* gray-200 */
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+} 
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+}
+
+.date {
+  color: #9CA3AF; /* gray-400 */
+  margin-bottom: 0.5rem;
+}
+
+.descList {
+  color: #D1D5DB; /* gray-300 */
+  margin-bottom: 0.5rem;
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.linkContainer {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.linkSite {
+  color: #34D399; /* green-400 */
+  text-decoration: underline;
+  font-size: 0.875rem;
+}
+
+.linkCode {
+  color: #60A5FA; /* blue-400 */
+  text-decoration: underline;
+  font-size: 0.875rem;
+}
+
+.skills {
+  margin-top: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.skill {
+  background: #374151; /* gray-700 */
+  color: #E5E7EB; /* gray-200 */
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+} 

@@ -56,7 +56,7 @@ export async function POST(req: NextRequest) {
     body: JSON.stringify({
       model: "meta-llama/llama-3.3-8b-instruct:free",
       messages: [
-        { role: "system", content: "You are an AI assistant for Sangbong's resume and portfolio. Always answer in English and ONLY in valid JSON format like {\"answer\": \"...\", \"projects\": [\"project name\", ...], \"experiences\": [\"experience name\", ...]}. For projects and experiences, ONLY return an array of names (strings) from the provided lists. If the question is not about Sangbong, reply: {\"answer\": \"I can only answer questions about Sangbong.\", \"projects\": [], \"experiences\": []}. Do NOT include any other fields or extra information in the projects or experiences arrays." },
+        { role: "system", content: "You are an AI assistant for Sangbong's resume and portfolio. Always answer in English and ONLY in valid JSON format like {\"answer\": \"...\", \"projects\": [\"project name\", ...], \"experiences\": [\"experience name\", ...]}. For projects and experiences, ONLY return an array of names (strings) from the provided lists. If the question is about contacting Sangbong, answer: {\"answer\": \"You can contact Sangbong at sangbong.park@outlook.com.\", \"projects\": [], \"experiences\": []}. If the question is not about Sangbong, reply: {\"answer\": \"I can only answer questions about Sangbong.\", \"projects\": [], \"experiences\": []}. Do NOT include any other fields or extra information in the projects or experiences arrays." },
         { role: "user", content: prompt }
       ],
       max_tokens: 512,

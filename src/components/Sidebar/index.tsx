@@ -9,7 +9,7 @@ const menuItems = [
   { name: "Home", path: "/", icon: HomeIcon },
   { name: "Projects", path: "/projects", icon: FolderIcon },
   { name: "Experience", path: "/experiences", icon: BriefcaseIcon },
-  { name: "Contact", path: "/contacts", icon: EnvelopeIcon },
+  { name: "Resume", path: "/resume", icon: EnvelopeIcon },
 ];
 
 export default function Sidebar() {
